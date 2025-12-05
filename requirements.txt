@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+xgboost
+requests
+huggingface_hub
+flask
+streamlit
+
+# Optional / helpful for deployments
+gunicorn
